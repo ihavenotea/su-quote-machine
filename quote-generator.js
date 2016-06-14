@@ -7,6 +7,8 @@ var quotes = [
     character: "Peridot" },
   { content: "Roar.",
     character: "Lion" }
+  { content: "Death."
+    character: 'me' },
 ];
 
 var displayQuote = function() {
