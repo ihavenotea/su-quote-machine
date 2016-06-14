@@ -6,8 +6,8 @@ var quotes = [
   { content: "APPARENTLY MORE THAN YOU, YOU... CLOD! ",
     character: "Peridot" },
   { content: "Roar.",
-    character: "Lion" }
-{ content: "I went back and paid for them.",
+    character: "Lion" },
+  { content: "I went back and paid for them.",
     character: "Pearl" }
 ];
 
