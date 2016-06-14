@@ -4,7 +4,10 @@ var quotes = [
   { content: "Love at first sight doesn't exist. Love takes time and love takes work. At the very least, you have to know the other person. And you literally have no idea who or what I am.",
     character: 'Garnet' },
   { content: "APPARENTLY MORE THAN YOU, YOU... CLOD! ",
-    character: "Peridot" }
+    character: "Peridot" },
+  { content: "This is not a real quote, lel",
+    character: "NOBODY" }
+  }
 ];
 
 var displayQuote = function() {
