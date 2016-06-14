@@ -1,0 +1,16 @@
+body {
+  padding: 40px;
+  font-family: Helvetica, sans-serif;
+}
+
+h1 {
+  background: linear-gradient(135deg, hsl(260,78%,84%) 0%,hsl(177,78%,84%) 19%,hsl(260,78%,84%) 29%,hsl(260,78%,84%) 29%,hsl(82,63%,81%) 39%,hsl(260,78%,84%) 66%,hsl(61,87%,61%) 82%,hsl(11,97%,55%) 100%);
+}
+
+blockquote {
+}
+
+.attribution {
+  font-style: italic;
+  text-align: right;
+}
