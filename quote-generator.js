@@ -8,7 +8,9 @@ var quotes = [
   { content: "Roar.",
     character: "Lion" },
   { content: "I went back and paid for them.",
-    character: "Pearl" }
+    character: "Pearl" },
+  { content: "I just want to go home. ",
+    character: "Lapis Lauzuli" },
 ];
 
 var displayQuote = function() {
