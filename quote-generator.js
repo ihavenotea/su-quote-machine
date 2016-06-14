@@ -6,7 +6,7 @@ var quotes = [
   { content: "APPARENTLY MORE THAN YOU, YOU... CLOD! ",
     character: "Peridot" },
  { content: "What's going on Dx ?!",
-    character: "Ruby" }
+    character: "Ruby" },
 ];
 var displayQuote = function() {
 
