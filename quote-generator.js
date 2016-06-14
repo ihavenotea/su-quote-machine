@@ -5,9 +5,9 @@ var quotes = [
     character: 'Garnet' },
   { content: "APPARENTLY MORE THAN YOU, YOU... CLOD! ",
     character: "Peridot" },
-]; { content: "What's going on Dx ?!",
+ { content: "What's going on Dx ?!",
     character: "Ruby" }
-
+];
 var displayQuote = function() {
 
   var index = Math.floor((Math.random() * quotes.length));
