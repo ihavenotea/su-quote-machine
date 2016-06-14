@@ -7,6 +7,8 @@ var quotes = [
     character: "Peridot" },
   { content: "Roar.",
     character: "Lion" }
+  { content: "I have exactly no idea what I'm doing, and this is not a steven universe quote, but I think I'm doing the right thing here.",
+    character: 'Me'},
 ];
 
 var displayQuote = function() {
